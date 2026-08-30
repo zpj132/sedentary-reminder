@@ -1,0 +1,16 @@
+# 构建产物（含签名密钥，勿提交）
+out/
+
+# 日志与临时文件
+build.log
+*.log
+.tmp/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Android 本地配置
+local.properties
+.gradle/
