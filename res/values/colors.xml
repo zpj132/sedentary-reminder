@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#0F766E</color>
+    <color name="primaryDark">#0B5A54</color>
+    <color name="textDark">#0F172A</color>
+    <color name="gray">#64748B</color>
+    <color name="stroke">#EBEEF3</color>
+    <color name="bgWindow">#F6F8FA</color>
+</resources>
